@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         TextView welcomeMessageTV = new TextView(this);
-        welcomeMessageTV.setText("Hello: First App - CodeYourApp World!");
+        welcomeMessageTV.setText("Hello World: My First App - CodeYourApp World!");
         setContentView(welcomeMessageTV);
     }
 }
